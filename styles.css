@@ -1,0 +1,25 @@
+.container {
+	width: 0 auto;
+}
+.host {
+	display: inline-block;
+	border: black solid 1px;
+	border-radius: 10px;
+}
+
+.host p {
+	font-size: 2em;
+}
+
+.quotsy p {
+	font-size: 3em;
+}
+
+button {
+	font-size: 1em;
+	height: 3em;
+	width: 10em;
+	box-shadow: 2px 2px 5px #888888;
+	border-radius: 5px;
+}
+
